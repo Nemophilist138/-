@@ -1,0 +1,6 @@
+{
+  "name": "数据书廊",
+  "description": "基于赛博朋克与数字美学的未来派数字书库交易与终端控制系统 (Neon Script Data Gallery & Terminal Hub)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
